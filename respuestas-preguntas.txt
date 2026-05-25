@@ -1,0 +1,6 @@
+9. GET, POST, DELETE, PUT y PATCH.
+13. Los data annotations son pequeñas menciones que se pueden agregar al principio de funciones y atributos de clases que definen su comportamiento.
+Por ejemplo, para especificar que el atributo `id` de una clase es una llave, se pondría el DataAnnotation `[Key]`
+17. Definir cuales son las funciones cuya logica van a ser definidas en la capa de servicios.
+1. Guarda los ultimos cambios del proyecto (commit) en el repositorio remoto.
+5. Aparte de que cada commit tenga un mensaje descriptivo, si el commit añade una nueva funcionalidad a la app, poner el prefijo FEAT; por ejemplo: "FEAT: se agregó el servicio de crear preguntas"
